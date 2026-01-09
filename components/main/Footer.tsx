@@ -2,6 +2,11 @@ import React from "react";
 import { RxGithubLogo, RxInstagramLogo } from "react-icons/rx";
 import { MdEmail } from "react-icons/md";
 
+
+
+
+
+
 const Footer = () => {
   return (
     <footer className="w-full bg-transparent text-gray-200 shadow-lg p-[18px]">

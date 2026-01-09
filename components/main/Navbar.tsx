@@ -19,7 +19,7 @@ const Navbar = () => {
                     />
 
                     <span className="font-bold ml-[10px] block text-gray-300 z-50 md:text-lg text-xl">
-                        Jenin Joseph
+                        M h s
                     </span>
                 </a>
 
